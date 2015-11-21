@@ -62,7 +62,6 @@ public class ElizaServerTest {
 		assertEquals("What's on your mind?", list.get(1));
 		assertEquals("---", list.get(2));
 
-
 	}
 
 	@Test(timeout = 1000)
